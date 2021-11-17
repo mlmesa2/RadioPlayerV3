@@ -197,8 +197,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/sicomoro_canal"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/sicomoro_familia"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
@@ -224,8 +224,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/sicomoro_canal"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/sicomoro_familia"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
@@ -262,8 +262,8 @@ async def start(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/sicomoro_canal"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/sicomoro_familia"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
@@ -286,8 +286,8 @@ async def help(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/sicomoro_canal"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/sicomoro_familia"),
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),

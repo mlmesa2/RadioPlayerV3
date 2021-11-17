@@ -31,8 +31,8 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/sicomoro_canal"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/sicomoro_familia"),
             ],
             [
                 InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV3"),
